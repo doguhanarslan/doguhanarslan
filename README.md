@@ -20,7 +20,6 @@ Software developer
 
 ## Projects
 
-Source is private — each link goes to an architecture write-up.
 
 **[enTakvim](https://github.com/doguhanarslan/entakvim-case-study)** — Clinic scheduling system, in production.
 Scheduling, client records and WhatsApp reminders for a psychology clinic. Web, iOS, Android and macOS.
