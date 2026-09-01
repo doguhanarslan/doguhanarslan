@@ -1,4 +1,4 @@
-Software developer — web, mobile, and the backends behind them. Ankara, Türkiye.
+Software developer
 
 <img src="https://skillicons.dev/icons?i=ts,js,react,flutter,dart,tailwind,dotnet,cs,nodejs,postgres,redis,docker,azure,firebase,linux,git&perline=16" alt="TypeScript, JavaScript, React, Flutter, Dart, Tailwind, .NET, C#, Node.js, PostgreSQL, Redis, Docker, Azure, Firebase, Linux, Git">
 
