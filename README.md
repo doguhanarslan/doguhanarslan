@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="hero-dark.svg">
-  <img src="hero-light.svg" width="880" alt="One codebase, shipped to web, iOS, Android and macOS">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/doguhanarslan/doguhanarslan/main/hero-dark.svg">
+  <img src="https://raw.githubusercontent.com/doguhanarslan/doguhanarslan/main/hero-light.svg" width="880" alt="One codebase, shipped to web, iOS, Android and macOS">
 </picture>
 
 I build things that have to work in a browser and on a phone at the same time, and keep
