@@ -1,13 +1,19 @@
-I build and operate production software end to end. Cross-platform systems that reach
-**web, iOS and Android from a single codebase** — React&nbsp;/&nbsp;TypeScript and Flutter —
-along with the backends, deployments and day-to-day operations behind them. Earlier work
-in .NET&nbsp;/&nbsp;C# with EF Core, CQRS and multi-tenant data isolation.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="hero-dark.svg">
+  <img src="hero-light.svg" width="880" alt="One codebase, shipped to web, iOS, Android and macOS">
+</picture>
 
-I work with AI-assisted tooling daily, and treat reviewing what it produces as the part of
-the job that matters: architectural fit, failure modes, and how the thing behaves in
-production at 3am.
+I build things that have to work in a browser and on a phone at the same time, and keep
+working after launch.
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,flutter,dart,tailwind,dotnet,cs,postgres,redis,docker,azure,firebase,linux&perline=14" alt="TypeScript, JavaScript, React, Flutter, Dart, Tailwind, .NET, C#, PostgreSQL, Redis, Docker, Azure, Firebase, Linux">
+Right now that's a scheduling system a psychology clinic runs on every day, a dream-journal
+app on Google Play, and the multi-tenant rebuild of the first one. Before those, a few years
+of .NET and C#.
+
+The part I underestimated early on was everything that comes after deploy — the backup that
+quietly stopped running, the alert channel everyone muted because it fired too often, the
+reminder that never arrived because a phone number had a space in it. Most of what I know
+now came from those. I work with Claude Code daily and read what it writes before it ships.
 
 ## Selected work
 
