@@ -9,4 +9,4 @@
 <tr><td><b>Tools</b></td><td>Claude Code · Git · Swagger · Postman</td></tr>
 </table>
 
-[LinkedIn](https://www.linkedin.com/in/doguhanarslan/) · arslandoguu@icloud.com
+[LinkedIn](https://www.linkedin.com/in/doguhanarslan/) · [Dreamluna on Google Play](https://play.google.com/store/apps/details?id=com.dreamluna.app) · arslandoguu@icloud.com
