@@ -1,22 +1,16 @@
 Software developer
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,flutter,dart,tailwind,dotnet,cs,nodejs,postgres,redis,docker,azure,firebase,linux,git&perline=16" alt="TypeScript, JavaScript, React, Flutter, Dart, Tailwind, .NET, C#, Node.js, PostgreSQL, Redis, Docker, Azure, Firebase, Linux, Git">
+<img src="https://skillicons.dev/icons?i=ts,react,flutter,dart,dotnet,cs,postgres,docker,azure,firebase&perline=10" alt="TypeScript, React, Flutter, Dart, .NET, C#, PostgreSQL, Docker, Azure, Firebase">
 
 ## Skills
 
-**Web** &nbsp; TypeScript · JavaScript · React 19 · HTML5 · CSS3 · Tailwind CSS · Vite · TanStack Query · Redux Toolkit · RTK Query
+**Web** &nbsp; TypeScript · React · Tailwind CSS · Redux Toolkit
 
-**Mobile** &nbsp; Flutter · Dart · Capacitor · PWA (service workers, offline, installable) · Play Store release
+**Mobile** &nbsp; Flutter · Dart · Capacitor · PWA
 
-**Backend** &nbsp; .NET · C# · ASP.NET Core Web API · EF Core · MediatR · Hangfire · Node.js · PocketBase
+**Backend** &nbsp; .NET · C# · EF Core · PocketBase · PostgreSQL · Redis
 
-**Data** &nbsp; PostgreSQL · SQLite · Redis · Elasticsearch · Firestore
-
-**Infrastructure** &nbsp; Docker · GitHub Actions · Azure Container Apps · Firebase / GCP · Linux · Caddy · systemd
-
-**Practice** &nbsp; Clean Architecture · CQRS · Domain-Driven Design · Multi-tenant SaaS · REST · JWT
-
-**Tooling** &nbsp; Git · Claude Code · Swagger · Postman · ESLint · Gradle
+**Infrastructure** &nbsp; Docker · GitHub Actions · Azure · Firebase · Linux
 
 ## Projects
 
