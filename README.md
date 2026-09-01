@@ -1,48 +1,38 @@
-I build software that runs unattended and has to keep running: a scheduling system a
-psychology clinic uses every day, an app on Google Play, and the multi-tenant rebuild of
-the first one.
+Software developer — web, mobile, and the backends behind them. Ankara, Türkiye.
 
-Most of what I know came from things that failed quietly rather than loudly — a backup
-that stopped and told nobody, an alert channel muted because it fired too often, a
-reminder the WhatsApp API accepted and never delivered because a phone number had a space
-in it. A service that restarts itself also hides that it has been crashing for weeks.
+<img src="https://skillicons.dev/icons?i=ts,js,react,flutter,dart,tailwind,dotnet,cs,nodejs,postgres,redis,docker,azure,firebase,linux,git&perline=16" alt="TypeScript, JavaScript, React, Flutter, Dart, Tailwind, .NET, C#, Node.js, PostgreSQL, Redis, Docker, Azure, Firebase, Linux, Git">
 
-So the half of the work I care about is what happens after deploy. React and TypeScript on
-the web, Flutter on mobile; .NET and C# before that. I use Claude Code daily and read what
-it writes.
+## Skills
 
-## Selected work
+| | |
+|---|---|
+| **Web** | TypeScript · JavaScript · React 19 · HTML5 · CSS3 · Tailwind CSS · Vite · TanStack Query · Redux Toolkit · RTK Query |
+| **Mobile** | Flutter · Dart · Capacitor · PWA (service workers, offline, installable) · Play Store release |
+| **Backend** | .NET · C# · ASP.NET Core Web API · EF Core · MediatR · Hangfire · Node.js · PocketBase |
+| **Data** | PostgreSQL · SQLite · Redis · Elasticsearch · Firestore |
+| **Infrastructure** | Docker · GitHub Actions · Azure Container Apps · Firebase / GCP · Linux · Caddy · systemd |
+| **Practice** | Clean Architecture · CQRS · Domain-Driven Design · Multi-tenant SaaS · REST · JWT |
+| **Tooling** | Git · Claude Code · Swagger · Postman · ESLint · Gradle |
 
-Source for these is private — each link goes to an architecture write-up explaining how it
-is built and why.
+## Projects
 
-#### [enTakvim](https://github.com/doguhanarslan/entakvim-case-study) — Clinic scheduling system · **in production**
+Source is private — each link goes to an architecture write-up.
 
+**[enTakvim](https://github.com/doguhanarslan/entakvim-case-study)** — Clinic scheduling system, in production.
+Scheduling, client records and WhatsApp reminders for a psychology clinic. Web, iOS, Android and macOS.
 `React 19` `TypeScript` `PocketBase` `Capacitor` `PWA`
 
-Runs a psychology clinic's daily scheduling, client records and WhatsApp reminders.
-One codebase serving web, iOS, Android and macOS from the same interface.
-
-#### [Dreamluna](https://github.com/doguhanarslan/dreamluna-case-study) — AI dream analysis app · **on Google Play**
-
+**[Dreamluna](https://github.com/doguhanarslan/dreamluna-case-study)** — Dream journaling app on Google Play.
+Offline-first sync, server-side OpenAI integration, server-verified subscriptions, tag-triggered store releases.
 `Flutter` `Dart` `Firebase` `OpenAI` `GitHub Actions`
 
-Offline-first sync, server-side OpenAI integration with prompt injection protection,
-server-verified subscriptions, and CI/CD that publishes to the store on version tags.
-
-#### [KlinikSaaS](https://github.com/doguhanarslan/kliniksaas-case-study) — Multi-tenant productisation & operations
-
+**[KlinikSaaS](https://github.com/doguhanarslan/kliniksaas-case-study)** — Multi-tenant version of the above.
+Per-clinic isolated instances, control plane for provisioning and subscriptions, automated releases and backups.
 `TypeScript` `React` `PocketBase` `Caddy` `systemd`
 
-Per-clinic isolated instances behind a control plane, health-checked rolling releases,
-encrypted off-site backups, and a watchdog that alerts only on state transitions.
-
-#### [Planca](https://github.com/doguhanarslan/planca-case-study) — Multi-tenant appointment SaaS
-
+**[Planca](https://github.com/doguhanarslan/planca-case-study)** — Multi-tenant appointment SaaS.
+Tenant isolation via EF Core global query filters, CQRS with MediatR, Hangfire jobs. Deployed on Azure Container Apps.
 `.NET` `C#` `EF Core` `PostgreSQL` `Redis` `Azure`
-
-Tenant isolation enforced by EF Core global query filters rather than by remembering to
-filter, CQRS with MediatR, Hangfire background jobs. Deployed to Azure Container Apps.
 
 ## Elsewhere
 
