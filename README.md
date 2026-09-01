@@ -4,15 +4,19 @@ Software developer — web, mobile, and the backends behind them. Ankara, Türki
 
 ## Skills
 
-| | |
-|---|---|
-| **Web** | TypeScript · JavaScript · React 19 · HTML5 · CSS3 · Tailwind CSS · Vite · TanStack Query · Redux Toolkit · RTK Query |
-| **Mobile** | Flutter · Dart · Capacitor · PWA (service workers, offline, installable) · Play Store release |
-| **Backend** | .NET · C# · ASP.NET Core Web API · EF Core · MediatR · Hangfire · Node.js · PocketBase |
-| **Data** | PostgreSQL · SQLite · Redis · Elasticsearch · Firestore |
-| **Infrastructure** | Docker · GitHub Actions · Azure Container Apps · Firebase / GCP · Linux · Caddy · systemd |
-| **Practice** | Clean Architecture · CQRS · Domain-Driven Design · Multi-tenant SaaS · REST · JWT |
-| **Tooling** | Git · Claude Code · Swagger · Postman · ESLint · Gradle |
+**Web** &nbsp; TypeScript · JavaScript · React 19 · HTML5 · CSS3 · Tailwind CSS · Vite · TanStack Query · Redux Toolkit · RTK Query
+
+**Mobile** &nbsp; Flutter · Dart · Capacitor · PWA (service workers, offline, installable) · Play Store release
+
+**Backend** &nbsp; .NET · C# · ASP.NET Core Web API · EF Core · MediatR · Hangfire · Node.js · PocketBase
+
+**Data** &nbsp; PostgreSQL · SQLite · Redis · Elasticsearch · Firestore
+
+**Infrastructure** &nbsp; Docker · GitHub Actions · Azure Container Apps · Firebase / GCP · Linux · Caddy · systemd
+
+**Practice** &nbsp; Clean Architecture · CQRS · Domain-Driven Design · Multi-tenant SaaS · REST · JWT
+
+**Tooling** &nbsp; Git · Claude Code · Swagger · Postman · ESLint · Gradle
 
 ## Projects
 
