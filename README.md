@@ -44,4 +44,4 @@ filter, CQRS with MediatR, Hangfire background jobs. Deployed to Azure Container
 
 ## Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/doguhanarslan/) · arslandoguu@icloud.com · Ankara, Türkiye
+[LinkedIn](https://www.linkedin.com/in/doguhanarslan/) · arslandoguu@icloud.com
