@@ -1,19 +1,15 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/doguhanarslan/doguhanarslan/main/hero-dark.svg">
-  <img src="https://raw.githubusercontent.com/doguhanarslan/doguhanarslan/main/hero-light.svg" width="880" alt="One codebase, shipped to web, iOS, Android and macOS">
-</picture>
+I build software that runs unattended and has to keep running: a scheduling system a
+psychology clinic uses every day, an app on Google Play, and the multi-tenant rebuild of
+the first one.
 
-I build things that have to work in a browser and on a phone at the same time, and keep
-working after launch.
+Most of what I know came from things that failed quietly rather than loudly — a backup
+that stopped and told nobody, an alert channel muted because it fired too often, a
+reminder the WhatsApp API accepted and never delivered because a phone number had a space
+in it. A service that restarts itself also hides that it has been crashing for weeks.
 
-Right now that's a scheduling system a psychology clinic runs on every day, a dream-journal
-app on Google Play, and the multi-tenant rebuild of the first one. Before those, a few years
-of .NET and C#.
-
-The part I underestimated early on was everything that comes after deploy — the backup that
-quietly stopped running, the alert channel everyone muted because it fired too often, the
-reminder that never arrived because a phone number had a space in it. Most of what I know
-now came from those. I work with Claude Code daily and read what it writes before it ships.
+So the half of the work I care about is what happens after deploy. React and TypeScript on
+the web, Flutter on mobile; .NET and C# before that. I use Claude Code daily and read what
+it writes.
 
 ## Selected work
 
