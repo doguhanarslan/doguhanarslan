@@ -1,6 +1,6 @@
 ### Doğuhan Arslan
 
-Software developer · web, mobile, and the backends behind them
+Software developer
 
 <table>
 <tr>
@@ -29,7 +29,6 @@ Dream journaling with AI analysis. Offline-first sync, server-side OpenAI integr
 <td width="50%" valign="top">
 
 #### [KlinikSaaS](https://github.com/doguhanarslan/kliniksaas-case-study)
-<img src="https://img.shields.io/badge/multi--tenant-6e7781?style=flat-square" alt="multi-tenant">
 
 The system on the left, rebuilt as a rentable product. Per-clinic isolated instances, control plane, automated releases and backups.
 
@@ -39,17 +38,14 @@ The system on the left, rebuilt as a rentable product. Per-clinic isolated insta
 <td width="50%" valign="top">
 
 #### [Planca](https://github.com/doguhanarslan/planca-case-study)
-<img src="https://img.shields.io/badge/on%20Azure-6e7781?style=flat-square" alt="on Azure">
 
-Multi-tenant appointment SaaS in .NET. Tenant isolation via EF Core global query filters, CQRS, background jobs.
+Multi-tenant appointment SaaS in .NET. Tenant isolation via EF Core global query filters, CQRS, background jobs, deployed on Azure.
 
 `.NET` `C#` `EF Core` `PostgreSQL`
 
 </td>
 </tr>
 </table>
-
-<sub>Source is private — each link goes to an architecture write-up.</sub>
 
 ---
 
@@ -58,6 +54,7 @@ Multi-tenant appointment SaaS in .NET. Tenant isolation via EF Core global query
 <tr><td><b>Mobile</b></td><td>Flutter · Dart · Capacitor · PWA</td></tr>
 <tr><td><b>Backend</b></td><td>.NET · C# · EF Core · PocketBase · PostgreSQL · Redis</td></tr>
 <tr><td><b>Infra</b></td><td>Docker · GitHub Actions · Azure · Firebase · Linux</td></tr>
+<tr><td><b>Tools</b></td><td>Claude Code · Git · Swagger · Postman</td></tr>
 </table>
 
 [LinkedIn](https://www.linkedin.com/in/doguhanarslan/) · arslandoguu@icloud.com
